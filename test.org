@@ -1,6 +1,6 @@
 * TODO Introduction
 
-** Statement of the proble,
+** Statement of the problem
 
 * TODO Main text
 
