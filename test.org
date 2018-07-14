@@ -1,5 +1,15 @@
 * Introduction
 
+** Statement of the proble,
+
 * Main text
 
+** Part 1
+
+** Part 2
+
 * Conclusion
+
+** Limitations
+
+** Future works
